@@ -1,5 +1,5 @@
 {
-  "name": "cydrickn/laravel-query-factory",
+  "name": "krnsptr/laravel-query-factory",
   "description": "Query Factory use for easily mock your query builder without sending query from real database",
   "keywords": [
     "laravel",
@@ -16,6 +16,10 @@
     {
       "name": "Cydrick Nonog",
       "email": "cydrick.dev@gmail.com"
+    },
+    {
+      "name": "Kurnia Saputra",
+      "email": "krnsptr@gmail.com"
     }
   ],
   "require": {
